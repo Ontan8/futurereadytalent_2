@@ -1,5 +1,5 @@
 # Future-ready-talent-Project
-# <a href="">Health Website with QnA Bot</a>
+# <a href="https://witty-mud-0659fa600.1.azurestaticapps.net/">Health Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,4 +47,4 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 -Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>
+<b>Project Link : </b> https://witty-mud-0659fa600.1.azurestaticapps.net/
