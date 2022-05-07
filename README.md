@@ -48,3 +48,5 @@ The core idea of the Project is to build a sample prototype Health Website with 
 >App Service<br>
 
 <b>Project Link : </b> https://witty-mud-0659fa600.1.azurestaticapps.net/
+  
+ ##I have deleted the static web app resource from azure so the website is no longer accessible on the web. To access the website please clone this repository and open up the html on localhost. Also, the embedded QnA Bot would not be working because that resource is deleted from azure as well.
